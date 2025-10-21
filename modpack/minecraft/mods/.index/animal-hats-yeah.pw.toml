@@ -1,0 +1,16 @@
+filename = 'animal_hat-1.0.0-neoforge-1.21.1.jar'
+name = 'Animal Hats'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.2', '1.21.3', '1.21.4', '1.21.5', '1.21.6', '1.21.7', '1.21.8' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '91dd9c66bb04848b8c980a30828142aaa79a3c05a1b80385f443c2a5ae645fe8e41bc494d8e56be1ddf225796f19813fbe2fc792a68821287dfe922cb640c751'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gL68b8ME/versions/KyKrRjW4/animal_hat-1.0.0-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'gL68b8ME'
+version = 'KyKrRjW4'

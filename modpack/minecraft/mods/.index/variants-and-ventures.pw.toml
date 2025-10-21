@@ -1,0 +1,16 @@
+filename = 'variantsandventures-neoforge-1.0.18+mc1.21.1.jar'
+name = 'Variants&Ventures'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4a6f77ee5f3426ccf4caf3ceee9f5b0cd977d170822d4218778cb81bca490bec08d4965c99e844d9d3fbd91d58af594f5a50e6381fd623b7b0750c4198d68e61'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/lNDRiXkY/versions/SHDQuf8R/variantsandventures-neoforge-1.0.18%2Bmc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'lNDRiXkY'
+version = 'SHDQuf8R'

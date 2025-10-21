@@ -1,0 +1,16 @@
+filename = 'crittersandcompanions-neoforge-1.21.1-2.3.3.jar'
+name = 'Critters and Companions'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '2aa188736447041cffe59644be64718f5b5f4a8a3f4886d264b0542491547a3d5eb6b1fa5c7713aa3820ee57a8d10202229db4b1399ef722aeb32561fe9e8110'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/Yd4wb5wZ/versions/hLqwCsH1/crittersandcompanions-neoforge-1.21.1-2.3.3.jar'
+
+[update.modrinth]
+mod-id = 'Yd4wb5wZ'
+version = 'hLqwCsH1'

@@ -1,0 +1,11 @@
+{
+	enableMod: true,
+	downloadThreads: 3,
+	downloadStatusDisplay: "ABOVE_HOTBAR",
+	hideParamsOnLabel: true,
+	defaultSkin: "",
+	showArmorStandWhileDownloading: true,
+	showEasterEggs: true,
+	tryApplyFromServerPlayer: true,
+	possessiveShowDefaultHand: false
+}

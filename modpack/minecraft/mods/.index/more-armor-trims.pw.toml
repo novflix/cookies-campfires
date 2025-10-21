@@ -1,0 +1,16 @@
+filename = 'more_armor_trims-1.4.1-1.21.jar'
+name = 'More Armor Trims'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'e834a3f6d7c6c80ebf3748c31a5be4e15b6f24b7f0b9b024c5d47f5819ca38017639f43c4524ded3d382958325aaf94049a867eae055fa5cf3575014ced5d137'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/FGNYBAJ6/versions/9Ewg7LhM/more_armor_trims-1.4.1-1.21.jar'
+
+[update.modrinth]
+mod-id = 'FGNYBAJ6'
+version = '9Ewg7LhM'

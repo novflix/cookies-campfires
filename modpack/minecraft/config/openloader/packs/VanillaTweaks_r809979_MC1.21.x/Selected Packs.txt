@@ -1,0 +1,28 @@
+Vanilla Tweaks Resource Pack
+Version: 1.21
+Packs:
+	SmileyAxolotls
+	HungerBarsCookie
+	ItemHoldFix
+	ItemStitchingFix
+	LegacySnowball
+	SmallCapsFont
+	HotbarSlotHighlight
+	3DAmethyst
+	3DPointedDripstone
+	3DMace
+	LowerShield
+	LowerFire
+	VisualHoney
+	UniqueAxolotlBuckets
+	DiminishingTools
+	MossCarpetOverhang
+	BetterParticles
+	1212RedstoneTorch
+	WarmGlow
+	AshlessCampfires
+	AnimatedCampfireItem
+	RandomSunflowerRotation
+	SmootherOakLog
+	FancySunflowers
+	CircleLogTops

@@ -1,0 +1,16 @@
+filename = 'CameraOverhaul-v2.0.4-neoforge+mc[1.21.0-1.21.1].jar'
+name = 'Camera Overhaul'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '244b09ab93e220daddea9014a527177c6afab84ba045029daf1c80f81800c84f326cc545868683a317ffb311a1a3f9df146f171b29cee3b37dd727a6fc571472'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/m0oRwcZx/versions/TcRjh7IY/CameraOverhaul-v2.0.4-neoforge%2Bmc%5B1.21.0-1.21.1%5D.jar'
+
+[update.modrinth]
+mod-id = 'm0oRwcZx'
+version = 'TcRjh7IY'
